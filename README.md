@@ -11,5 +11,6 @@ I found Bernoulli Navive bayes classifier best fits the data as the classificati
 
 And Part-2 is about best classification for Glass dataset,  
 as there are different types of glass which is not binary so Gaussian Naive Bayes is best fits for the classification.  
+  
 I also compared with Linear Support Vector Machine(SVM), yeilding accuracy of 0.72.  
 Where Gaussian Naive Bayes best yeilding accuracy of 0.83.  
